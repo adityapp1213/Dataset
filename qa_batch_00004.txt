@@ -1,0 +1,45 @@
+a record of less than 10 losses: Ole Miss, Kentucky, and UC Berkeley. No one is a home run hitter, so each team has a small chance of winning the next three games.
+
+Feel like you're missing out
+
+But there are four teams that have a record of more than 10 losses:
+
+- Clemson
+- Oregon
+- Utah
+- UC Berkeley
+
+Feel like your team is going to lose
+
+There are also two teams that have a record of more than 10 losses:
+
+- Kansas State
+- Arizona State
+
+But one team has a record of 12 wins and only one loss, making it the top performer:
+
+- Florida State
+- Oregon
+- UC Berkeley
+- LSU
+
+And there's one team that has a record of 10 wins, making it the top performer:
+
+- Clemson
+- UC Berkeley
+- LSU
+- Oregon
+
+But two teams have a record of 9 wins and three losses, making them the top performers:
+
+- Oregon
+- UC Berkeley
+- LSU
+- Clemson
+
+And two teams have a record of 8 wins and no losses, making them the top performers:
+
+- Clemson
+- UC Berkeley
+- LSU
+- Oregon

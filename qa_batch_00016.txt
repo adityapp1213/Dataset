@@ -1,0 +1,31 @@
+Cloud-native and cloud-enable certifications
+
+Cloud-native certifications are becoming increasingly important as companies move toward the cloud.
+
+Cloud-enable certifications are certifications that are designed to help you be more cloud-friendly, but they are not as widely recognized as cloud-native certifications.
+
+Cloud-native certifications
+
+There are many cloud-native certifications, but the most well-known is AWS Certified Cloud Engineer.
+
+AWS has created a comprehensive guide that breaks down the various certifications that AWS offers and what they mean.
+
+AWS also offers a certification program for other cloud platforms, including Azure and Google Cloud.
+
+Cloud-enable certifications
+
+AWS offers certifications that are designed to help you work with the AWS platform.
+
+Cloud-enable certifications
+
+AWS offers a certification program for other cloud platforms, including Azure and Google Cloud.
+
+Other cloud platforms
+
+AWS offers certifications that are designed to help you work with the AWS platform.
+
+AWS also offers a certification program for other cloud platforms, including Azure and Google Cloud.
+
+Cloud-enable certifications
+
+AWS offers a certification program for other cloud platforms, including Azure
