@@ -42,9 +42,9 @@ refined/ → LLaMA outputs in batches
 
 Example refined file:
 
-batch_data00001.jsonl
-batch_data00002.jsonl
-batch_data00003.jsonl
+batch_data00001.txt
+batch_data00002.txt
+batch_data00003.txt
 ...
 
 
